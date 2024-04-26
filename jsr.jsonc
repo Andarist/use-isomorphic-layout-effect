@@ -1,0 +1,21 @@
+{
+    "name": "@bureaudouble-forks/use-isomorphic-layout-effect",
+    "version": "0.0.1",
+    "nodeModulesDir": false,
+    "compilerOptions": {
+      "noErrorTruncation": true,
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "dom.asynciterable",
+        "deno.ns"
+      ]
+    },
+    "imports": {
+      "react": "npm:react@^18.2"
+    },
+    "exports": {
+      ".": "./src/index.ts"
+    }
+  }
+  
