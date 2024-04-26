@@ -1,6 +1,6 @@
 {
     "name": "@bureaudouble-forks/use-isomorphic-layout-effect",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "nodeModulesDir": false,
     "compilerOptions": {
       "noErrorTruncation": true,
@@ -12,7 +12,7 @@
       ]
     },
     "imports": {
-      "react": "npm:react@^18.2"
+      "react": "npm:react@^18.2.0"
     },
     "exports": {
       ".": "./src/index.ts"
