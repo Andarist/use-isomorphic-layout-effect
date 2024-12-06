@@ -1,3 +1,4 @@
 import { useEffect, useLayoutEffect } from 'react'
+import isClient from '#is-client'
 
-export default typeof document !== 'undefined' ? useLayoutEffect : useEffect
+export default isClient ? useLayoutEffect : useEffect

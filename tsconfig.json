@@ -2,8 +2,8 @@
   "compilerOptions": {
     "forceConsistentCasingInFileNames": true,
     "lib": ["esnext", "DOM"],
-    "module": "esnext",
-    "moduleResolution": "node",
+    "module": "Node16",
+    "moduleResolution": "Node16",
     "noEmit": true,
     "resolveJsonModule": true,
     "rootDir": "./src",
