@@ -69,7 +69,7 @@
     "@babel/preset-typescript": "^7.26.0",
     "@preconstruct/cli": "^2.8.10",
     "@types/react": "^19.0.0",
-    "husky": "^4.2.5",
+    "husky": "^9.1.7",
     "lint-staged": "^10.2.11",
     "prettier": "^3.4.2",
     "react": "^19.0.0",
